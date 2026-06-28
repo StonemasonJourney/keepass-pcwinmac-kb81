@@ -1,4 +1,4 @@
-# 
+# Free KeePass extensions for Mac OS | Custom KeePass extensions for PC Windows. Featuring security recommendations and automatic updates — optimized for maximum performance on every platform.
 
 
 
